@@ -10,3 +10,11 @@
     
      ![image](images.jpg)
 
+     ## 
+     To write the code in the markdown file  we use ''' symbol as follows :
+     ```python
+      print("Welcome to markdown file");
+     ```
+
+
+
